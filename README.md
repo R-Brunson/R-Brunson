@@ -1,16 +1,18 @@
-## Hi there 👋
+# CSC-134 Class Readme
 
-<!--
-**R-Brunson/R-Brunson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
+- **Name:** Ricky Brunson
+- **Course:** CSC-134
 
-Here are some ideas to get you started:
+## About Me
+- Aspiring mechanical engineer
+- Participating in the C3 program at NCSU
+- Plan to complete a four-year degree at NCSU
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Academic Goals
+- Aim to become a mechanical engineer
+- Interested in mechanics, dynamics, and energy
+
+## Interests and Hobbies
+- Passion for music
+- Play various brass instruments (mainly French horn and trumpet)
